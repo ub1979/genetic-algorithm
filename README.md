@@ -1,4 +1,4 @@
-# Genetic Algorithm for Traveling Salesman Problem
+# Genetic Algorithm Class
 
 This repository contains a Python implementation of a Genetic Algorithm (GA) class and an example application solving the Traveling Salesman Problem (TSP).
 
